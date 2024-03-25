@@ -11,6 +11,8 @@ bring over what I've made so I don't accidentally lose it.
 Some common questions I was berated with through the making of this project:
 > "Why would you word it like that?"
 
+> "Is that a human face?"
+
 > "You can't just make a game like a dirty love letter for a friend"
 
 > "What did he[^1] do to deserve being in this creation?"
