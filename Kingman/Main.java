@@ -48,7 +48,7 @@ public static void main(String[] args) {
         }
   		else
         {
-          System.out.println("\nAwesome name!  I couldn't have picked one better myself, and I'm the machine! (for legal purposes, I am not The Machine).\n");
+          System.out.println("\nAwesome name!  I couldn't have picked one better myself, and I'm The Machine! (for legal purposes, I am not The Machine).\n");
         }
   
   System.out.println("Just one more question, and then we'll start!\n\nWhen searching for a significant other, someone to spend the rest of your life with, what trait do you look for most?\n");
@@ -133,7 +133,7 @@ public static void main(String[] args) {
     	{
       		if (c1 == 4)
     	{
-      		System.out.println("\nStats are for nerds.  I'm talking to you Carter.  This is not a joke.  Carter Mitchell Betts who lives on\n 8954 Harris Road, Lodi Ohio.  You lose for trying to press stats.  Never do it again. L\n\nHit and enter a button nerd, see what happens:  ");
+      		System.out.println("\nStats are for nerds.  I'm talking to you Carter.  This is not a joke.  Carter (REDACTED FOR PRIVACY) who lives on\n (REDACTED FOR PRIVACY).  You lose for trying to press stats.  Never do it again. L\n\nHit and enter a button nerd, see what happens:  ");
               pause = scan.nextLine();
 				Print_Carter_Face first_ever_face = new Print_Carter_Face();	
                 q1.addIdiot_Point();
