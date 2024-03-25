@@ -15,10 +15,12 @@ Some common questions I was berated with through the making of this project:
 
 > "What did he[^1] do to deserve being in this creation?"
 
+> "What's a KingMan?"
+
 > "That's disgusting."
 
 Simply put, I did it because I could.  And because I wanted to.  And because the project was for a grade, 
-so I had to turn something in.  
+so I had to turn something in for the class final.  
 
 **But really, I did it because it was fun.**
 
